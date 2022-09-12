@@ -10,6 +10,7 @@
 </head>
 <body>
     <h1>test</h1>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel at et nam maxime explicabo optio debitis, repellat ratione fuga molestias voluptas eius ad quisquam sint hic corrupti eum iusto harum.
     <script src="./assets/js/main.js"></script>
 </body>
 </html>
